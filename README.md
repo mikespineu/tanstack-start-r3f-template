@@ -1,5 +1,7 @@
 # TanStack Start + React Three Fiber template
 
+[![npm version](https://img.shields.io/npm/v/create-tanstack-r3f)](https://www.npmjs.com/package/create-tanstack-r3f) [![npm downloads](https://img.shields.io/npm/dm/create-tanstack-r3f)](https://www.npmjs.com/package/create-tanstack-r3f) [![license: MIT](https://img.shields.io/github/license/mikespineu/tanstack-start-r3f-template)](LICENSE)
+
 Starter for 3D web apps: [TanStack Start](https://tanstack.com/start) (React, file-based routing, SSR) with
 [React Three Fiber](https://r3f.docs.pmnd.rs/), [drei](https://drei.docs.pmnd.rs/) and Tailwind CSS 4.
 
