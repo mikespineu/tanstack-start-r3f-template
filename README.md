@@ -33,3 +33,7 @@ npm run test     # Vitest
 
 - Dependencies are pinned to exact versions.
 - Devtools are stripped from production builds.
+
+## License
+
+[MIT](LICENSE)
