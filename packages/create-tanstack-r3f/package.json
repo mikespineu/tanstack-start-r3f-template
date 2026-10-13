@@ -1,0 +1,31 @@
+{
+  "name": "create-tanstack-r3f",
+  "version": "0.1.0",
+  "description": "Scaffold a TanStack Start + React Three Fiber app",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "create-tanstack-r3f": "./bin/index.js"
+  },
+  "files": [
+    "bin"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikespineu/tanstack-start-r3f-template.git",
+    "directory": "packages/create-tanstack-r3f"
+  },
+  "keywords": [
+    "create",
+    "tanstack-start",
+    "react-three-fiber",
+    "r3f",
+    "template"
+  ],
+  "dependencies": {
+    "giget": "3.3.1"
+  }
+}
